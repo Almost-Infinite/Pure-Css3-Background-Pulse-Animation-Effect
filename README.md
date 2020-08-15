@@ -1,9 +1,11 @@
+<h1 align="center">Hi 👋, I'm Luã Muzy</h1>
+
 # Pure Css3 Background Pulse Animation Effect
 
 ![Pure CSS](Screenshot.gif)
 
-<h1 align="center">Hi 👋, I'm Luã Muzy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" style="border-radius:50px;"/> </p>
 
 <br><br>
 
