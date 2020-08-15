@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Luã Muzy</h1>
 
+## Scroll Below 👇
+
+<br><br>
+
 # Pure Css3 Background Pulse Animation Effect
 
 ![Pure CSS](Screenshot.gif)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" style="border-radius:50px;"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=almost-infinite" alt="almost-infinite" style="border-radius: 30px;"/> </p>
 
 <br><br>
 
