@@ -31,3 +31,6 @@
 <br><br>
 
 [![Anurag's github stats](https://github-readme-stats.almost-infinite.vercel.app/api?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a ref="https://www.facebook.com/Almost.Infinite" alt="Facebook"><img src="https://i.imgur.com/qosjk0z.png" alt="Facebook"  width="90" height="90"></a>
