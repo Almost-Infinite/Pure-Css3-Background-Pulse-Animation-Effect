@@ -31,11 +31,11 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.almost-infinite.vercel.app/api/top-langs/?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.almost-infinite.vercel.app/api/top-langs/?username=Almost-Infinite&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br><br>
 
-[![Anurag's github stats](https://github-readme-stats.almost-infinite.vercel.app/api?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.almost-infinite.vercel.app/api?username=Almost-Infinite&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Social Medias
 
