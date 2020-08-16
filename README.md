@@ -1,5 +1,5 @@
 
-<center><a href="https://www.facebook.com/Almost.Infinite"><img src="https://imgur.com/J0BBkvj.png" title="Facebook" align="center" height="600" width="600" ></a></center>
+<img src="https://imgur.com/J0BBkvj.png"  alt="Almost Infinite" align="center" height="600" width="600" >
 
  
 <br><br>
