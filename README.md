@@ -17,6 +17,7 @@
 
 <br><br>
 
+<p aling="left">Knowledges</p>
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
