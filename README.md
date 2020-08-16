@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Luã Muzy</h1>
+
+<center><a href="https://www.facebook.com/Almost.Infinite"><img src="https://imgur.com/J0BBkvj.png" title="Facebook" align="center" height="600" width="600" ></a></center>
+
+ 
+<br><br>
 
 ## Scroll Below 👇
 
@@ -32,5 +36,13 @@
 
 [![Anurag's github stats](https://github-readme-stats.almost-infinite.vercel.app/api?username=Almost-Infinite)](https://github.com/anuraghazra/github-readme-stats)
 
+## Social Medias
 
-<a ref="https://www.facebook.com/Almost.Infinite" alt="Facebook"><img src="https://i.imgur.com/qosjk0z.png" alt="Facebook"  width="90" height="90"></a>
+<br><br>
+
+<p align="left">
+<a href="https://www.facebook.com/Almost.Infinite"><img src="https://i.imgur.com/qosjk0z.png" title="Facebook" align="left" height="90" width="90" ></a>
+<a href="https://www.instagram.com/lua.0_0.m/"><img src="https://imgur.com/yVUjfBA.png" title="Instagram" align="left" height="90" width="90" ></a>
+<a href="https://twitter.com/luko100"><img src="https://imgur.com/mh9BMBM.png" title="Twitter" align="left" height="90" width="90" ></a>
+<a href="https://github.com/Almost-Infinite"><img src="https://imgur.com/TU327h6.png" title="GitHub" align="left" height="90" width="90" ></a>
+</p> 
